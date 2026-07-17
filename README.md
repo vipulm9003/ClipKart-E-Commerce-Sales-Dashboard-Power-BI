@@ -90,6 +90,4 @@ The objective of this dashboard is to provide a single interactive view of overa
 
 ![Dashboard](https://github.com/vipulm9003/ClipKart-E-Commerce-Sales-Dashboard-Power-BI/blob/main/clipkart-dashboard.png)
 
-*(Replace `dashboard.png` with your uploaded dashboard image.)*
-
 ---
